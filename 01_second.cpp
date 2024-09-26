@@ -3,9 +3,10 @@ using namespace std;
 
 int main()
 {
-    int n;
-    cout<<"Enter the value of n";
-    cin>>n;
-    cout<<"The value of the variable that you entered is"<< n;
+    int n1,n2,n3;
+    cout<<"Enter the value of n1,n2 and n3 respectievly \n ";
+    cin>>n1,n2,n3;
+    cout<<"The sum of the three numbers is "<< n1+n2+n3;
     return 0;
 }
+   
