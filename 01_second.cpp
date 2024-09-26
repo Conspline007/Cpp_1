@@ -1,12 +1,11 @@
 #include <iostream>
 using namespace std;
 
+
 int main()
 {
-    int n1,n2,n3;
-    cout<<"Enter the value of n1,n2 and n3 respectievly \n ";
-    cin>>n1,n2,n3;
-    cout<<"The sum of the three numbers is "<< n1+n2+n3;
+    int x{};
+    cout<<"The time duration for which i'm productive is "<<x;
     return 0;
 }
    
