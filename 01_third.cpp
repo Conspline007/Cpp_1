@@ -1,11 +1,11 @@
 #include <iostream>
-using namespace std;
-
+using std :: cout ;
+using std :: cin;
+typedef std :: string text;
 
 int main()
 {
-  int a=5;
-  int b={3};
-  cout<<"the value of a is "<<a;
+  text abc = "ABC";
+  cout << abc;
   return 0;
 }
